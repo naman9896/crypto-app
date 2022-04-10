@@ -27,4 +27,8 @@
   .signup .container {
     grid-template-columns: 1fr;
   }
+
+  .container .right {
+    margin-top: 1.5rem;
+  }
 }

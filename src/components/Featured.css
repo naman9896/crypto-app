@@ -93,6 +93,10 @@
 }
 
 @media screen and (max-width: 478px) {
+  .featured {
+    clip-path: polygon(0 0, 100% 5%, 100% 100%, 0% 95%);
+  }
+
   .featured .container .right .card {
     width: 100%;
   }
